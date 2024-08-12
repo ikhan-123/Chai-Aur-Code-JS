@@ -3,6 +3,11 @@
 
 // alert( 3 + 3)  //we are using nodejs, not browser
 
+let age = 18
+let isloggedIn = false
+let name = undefined  // typeof undefied
+let state = null   // typeof object
+
 // number =>  2 to power 53 
 // bigint
 // string => ""
@@ -14,4 +19,5 @@
 
 // object 
 
-console.log(typeof undefined);
+console.log(typeof null); // Null ki type object he.
+console.log(typeof undefined);  // undefined ki type undefined hi he.
