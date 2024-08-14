@@ -17,7 +17,7 @@ let valueInNumber = Number(score);
 let isloggedIn = "Irfan"
 
 let booleanisLoggedIn = Boolean (isloggedIn)
-console.log(booleanisLoggedIn);
+// console.log(booleanisLoggedIn);
 
 // 1 => true; 0 => false
 // "" =>false
@@ -49,10 +49,14 @@ let str2 = " Irfan"
 let str3 = str1 + str2
 // console.log(str3);
 
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2");
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
+
+
+
+console.log( (3 + 4) * 5 % 3);
 
  
 
